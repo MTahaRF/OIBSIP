@@ -30,7 +30,7 @@ The objective of this project was to classify iris flowers among three species (
 
 ### Files
 
-- `Task_1.ipynb`: Jupyter notebook containing the data analysis, model training, and evaluation.
+- `oibsip_1.ipynb`: Jupyter notebook containing the data analysis, model training, and evaluation.
 
 ### Results
 
@@ -51,7 +51,7 @@ This project aimed to predict the prices of cars based on various features such 
 
 ### Files
 
-- `Task_3.ipynb`: Jupyter notebook with data preprocessing, model training, and evaluation.
+- `oibsip_3.ipynb`: Jupyter notebook with data preprocessing, model training, and evaluation.
 
 ### Results
 
@@ -71,7 +71,7 @@ The goal of this project was to classify emails as spam or ham (not spam) using 
 
 ### Files
 
-- `Task_4.ipynb`: Jupyter notebook detailing the preprocessing of email text, feature extraction, model training, and evaluation.
+- `oibsip_4.ipynb`: Jupyter notebook detailing the preprocessing of email text, feature extraction, model training, and evaluation.
 
 ### Results
 
@@ -93,7 +93,7 @@ This project focused on predicting future sales based on historical sales data u
   
 ### Files
 
-- `Task_5.ipynb`: Jupyter notebook with data preprocessing, time series analysis, model training, and forecasting.
+- `oibsip_5.ipynb`: Jupyter notebook with data preprocessing, time series analysis, model training, and forecasting.
 
 ### Results
 
